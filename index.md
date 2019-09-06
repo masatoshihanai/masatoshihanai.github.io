@@ -1,6 +1,1 @@
----
-layout: default
-title: Home 
----
-
-*__Ha !__*
+Hello World
